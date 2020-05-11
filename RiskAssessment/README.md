@@ -1,0 +1,1 @@
+Repository for my final project for Risk Assessment for Engineers. My partner and I chose to use various continous probability distributions to simulate possible changes in the stock market using a library of past data. We coded our algorithims and generated charts representing our findings in Matlab. 
